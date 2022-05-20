@@ -1,0 +1,16 @@
+# Python files/dirs
+__pycache__
+
+# IDE files/dirs
+.idea
+
+# Enviroment variables
+.env
+
+# Pytest
+.pytest_cache
+.coverage
+coverage_report
+
+# Virtual env
+venv
